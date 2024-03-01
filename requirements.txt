@@ -1,0 +1,6 @@
+requests
+pytest
+selene==2.0.0rc8
+webdriver-manager==4.0.1
+selenium
+pypdf~=4.0.2
